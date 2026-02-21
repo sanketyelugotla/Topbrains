@@ -1,0 +1,46 @@
+# Build results
+bin/
+obj/
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Visual Studio
+.vs/
+.vscode/
+*.sln.iml
+*.user
+*.suo
+*.sln.docstates
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+
+# Local environment files
+appsettings.local.json
+local.settings.json
+
+# Test Results
+TestResults/
+*.trx
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Dependencies
+node_modules/
+
+# Logs
+logs/
+*.log
